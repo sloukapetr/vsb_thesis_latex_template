@@ -99,7 +99,7 @@
 \DeclareOption{english}
 {
 \setcounter{Dipl@CurrentThesisLanguage}{\Dipl@EnglishLanguage}
-\Dipl@BabelLanguageOptions{czech,main=english}
+\Dipl@BabelLanguageOptions={czech,main=english}
 \Dipl@SupervisorCaption={Supervisor}
 \Dipl@FacultyLogoFileName={Figures/FEI_EN.pdf}
 }
