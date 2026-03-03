@@ -1,0 +1,1 @@
+# vsb_thesis_latex_template
